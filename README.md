@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The Probot App is a tool used to help automate GitHub workflows.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+*Use pre-built apps to extend GitHub
+*Easily share your own apps
 
 ## Getting started
 
