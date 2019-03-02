@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+*Installation instructions can be found in the README.md file
+*Ensure you have the current version of Homebrew, Python3 and VIM installed
+*We recommend including the johndgiese's dotvim configuration for VIM
